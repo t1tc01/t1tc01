@@ -8,4 +8,6 @@
 <a href="https://www.linkedin.com/in/t1tc01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t1tc01" height="30" width="40" /></a>
 </p>
 
+[![t1tc01's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1tc01)](https://github.com/anuraghazra/github-readme-stats)
+
 
