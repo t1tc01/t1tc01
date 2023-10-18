@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Phan Vu Nguyen Hoang 👋</h1>
 <h3 align="center">夜空が好きな人 🌖</h3>
 - 👀 I’m interested in Machine Learning & Artificial Intelligence <br>
-- 🌱 I’m currently learning about AI/ML major
+- 🌱 I’m currently student in AI/ML major
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
